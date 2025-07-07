@@ -41,6 +41,9 @@ yarn-error.log*
 *.log
 *.pid
 
+# Lock files
+package-lock.json
+
 # Security
 *.key
 *.pem
